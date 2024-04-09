@@ -38,4 +38,9 @@ void main() {
   var txt = 'good';
 
   assert(txt != 'bad'); // assert will raise error in debug mode
+
+  String? name;
+
+  name ??=
+      "Raushan"; // ?? will assign values if the variable is null or not has been assigned already
 }

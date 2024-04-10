@@ -66,3 +66,6 @@ class Point {
     print("lat: $lat and long: $long");
   }
 }
+
+
+// abstract classes cannot be instantiated;

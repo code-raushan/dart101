@@ -16,7 +16,6 @@ class BullDog extends Dog {
 
   @override
   walk() {
-    // TODO: implement walk
     super.walk(); // calling the walk method of parent class
 
     print("It's bull dog style of walking");

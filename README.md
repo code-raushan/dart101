@@ -5,3 +5,22 @@
 - Language Constructs
 - Language Features
 - OOP Paradigm
+
+## Topics Covered:
+
+- Variables
+- Operators
+- Control Flow
+- Functions
+- List
+- Map
+- Null Safety
+- Classes
+- Constrctors
+- Inheritance
+- Generic
+- Mixin
+- Async Programming
+-- Future
+-- Async/Await
+-- Streams

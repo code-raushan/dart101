@@ -5,6 +5,8 @@
 - Language Constructs
 - Language Features
 - OOP Paradigm
+- Concurrency
+- Aysnchronous Programming
 
 ## Topics Covered:
 

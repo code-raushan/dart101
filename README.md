@@ -21,6 +21,6 @@
 - Generic
 - Mixin
 - Async Programming
--- Future
--- Async/Await
--- Streams
+- Future
+- Async/Await
+- Streams
